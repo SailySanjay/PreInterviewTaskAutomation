@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T09:13:39 BST" name="Default suite" finished-at="2022-06-20T09:14:02 BST" duration-ms="23256">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T09:13:39 BST" name="Default test" finished-at="2022-06-20T09:14:02 BST" duration-ms="23256">
+      <class name="test.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.CartTest@41a0aa7d]" started-at="2022-06-20T09:13:39 BST" name="setup" finished-at="2022-06-20T09:13:53 BST" duration-ms="14531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateShopCart()[pri:0, instance:test.CartTest@41a0aa7d]" started-at="2022-06-20T09:13:53 BST" name="validateShopCart" finished-at="2022-06-20T09:14:00 BST" duration-ms="6991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateShopCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.CartTest@41a0aa7d]" started-at="2022-06-20T09:14:00 BST" name="tearDown" finished-at="2022-06-20T09:14:02 BST" duration-ms="1604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.CartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
